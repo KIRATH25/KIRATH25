@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kirath sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirath sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kirath-sharma-b73242311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirath sharma" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kirath kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kirath kumar sharma" height="30" width="40" /></a>
 <a href="https://fb.com/kirath kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kirath kumar sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/kirath_kumar_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirath_kumar_sharma" height="30" width="40" /></a>
