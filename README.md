@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirath25&label=Profile%20views&color=0e75b6&style=flat" alt="kirath25" /> </p>
 
-- 🔭 I’m currently working on [Tech Defense Ring]
+- 🔭 I’m currently working on [Tech Defense Ring](Soon !)
 
 - 🌱 I’m currently learning **Cyber-Security & IoT**
 
 - 👯 I’m looking to collaborate on [Google Summer of Code 2025](https://opportunitiesforyouth.org/2025/03/26/google-summer-of-code-2025-paid-remote-open-source-program-by-google/?amp=1)
 
-- 🤝 I’m looking for help with [Real Life Problems !]
+- 🤝 I’m looking for help with [Real Life Problems !](Soon !)
 
 - 📝 I oftenly write articles on [LinkedIN](LinkedIN)
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kirath-sharma-b73242311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirath sharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kirath sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirath sharma" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kirath kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kirath kumar sharma" height="30" width="40" /></a>
 <a href="https://fb.com/kirath kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kirath kumar sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/kirath_kumar_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirath_kumar_sharma" height="30" width="40" /></a>
@@ -39,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirath25&show_icons=true&locale=en&layout=compact" alt="kirath25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirath25&show_icons=true&locale=en" alt="kirath25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirath25&" alt="kirath25" /></p>
