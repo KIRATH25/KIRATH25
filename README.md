@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirath25&label=Profile%20views&color=0e75b6&style=flat" alt="kirath25" /> </p>
 
-- 🔭 I’m currently working on [Tech Defense Ring](Soon !)
+- 🔭 I’m currently working on **Tech Defense Ring**
 
 - 🌱 I’m currently learning **Cyber-Security & IoT**
 
 - 👯 I’m looking to collaborate on [Google Summer of Code 2025](https://opportunitiesforyouth.org/2025/03/26/google-summer-of-code-2025-paid-remote-open-source-program-by-google/?amp=1)
 
-- 🤝 I’m looking for help with [Real Life Problems !](Soon !)
+- 🤝 I’m looking for help with [Real Life Problems !]
 
 - 📝 I oftenly write articles on [LinkedIN](LinkedIN)
 
